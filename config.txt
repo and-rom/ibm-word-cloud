@@ -1,0 +1,26 @@
+font: font.ttf
+
+format: tab
+
+inputencoding: UTF-8
+
+firstline: data
+
+wordcolumn: 1
+
+weightcolumn: 2
+
+background: FFFFFF
+
+#palette: 000000, 0000FF, 0000FF, 0000FF
+#palette: 880099, 339922, 993333, 2266CC
+palette: cecece
+
+#placement: Center
+placement: HorizontalCenterLine
+
+shape: SQUARISH
+#shape: BLOBBY
+
+orientation: HORIZONTAL
+#orientation: MOSTLY_HORIZONTAL

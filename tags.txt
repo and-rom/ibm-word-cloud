@@ -1,0 +1,12 @@
+Linux	8
+bash	5.1
+Delphi	8.5
+C++	5.7
+python	4.8
+HTML/CSS	7.9
+AJAX	6.6
+PHP	6
+LaTeX	4
+SQL	5.5
+git	3.2
+svn	4.2
